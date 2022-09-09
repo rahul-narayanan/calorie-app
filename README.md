@@ -11,7 +11,7 @@ This is a simple calorie tracking app to track food intakes by adding and managi
 ## Technologies used:
 **Frontend:** React JS, Material UI, SCSS, React Router
 
-**Backend:** Node JS, Express JS
+**Backend:** Node JS, Express JS, MongoDB
 
 **Authentication:** JSON Web Token
 
