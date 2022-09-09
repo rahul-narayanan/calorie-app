@@ -9,7 +9,7 @@ This is a simple calorie tracking app to track food intakes by adding and managi
 4) Admin can see food entries of all the users and some reports such as No. of entries added this week vs last week, average number of calories added per user, etc.
 
 ## Technologies used:
-**Frontend:** React JS, Bootstrap
+**Frontend:** React JS, Material UI, SCSS, React Router
 
 **Backend:** Node JS, Express JS
 
